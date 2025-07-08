@@ -1,0 +1,2 @@
+D:\project\MyFirstAzureWebApp\bin\Debug\net8.0\MyFirstAzureWebApp.exe
+D:\project\MyFirstAzureWebApp\bin\Debug\net8.0\MyFirstAzureWebApp.dll
